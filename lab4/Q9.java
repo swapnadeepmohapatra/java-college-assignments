@@ -4,6 +4,15 @@
 // of plastic as per the dimensions given by the user where 3D inherits
 // from 2D
 
+class 2D {
+    int length, breadth;
+
+    // 2D(int l, int b) {
+    //     length = l;
+    //     breadth = b;
+    // }
+}
+
 class Q9 {
     public static void main(String args[]) {
 
