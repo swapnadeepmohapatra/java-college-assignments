@@ -6,9 +6,9 @@
 
 public class Area {
     public static void main(String args[]) {
-        System.out.println("Area of circle with radius 2.5 is: " + area(2.5));
-        System.out.println("Area of square with side 5 is: " + area(5));
-        System.out.println("Area of traingle with height 2.4 and breadth 5.6 is: " + area(2.4, 5.6));
+        System.out.println("Area of circle with radius 2.5 is: " + area(3.5));
+        System.out.println("Area of square with side 5 is: " + area(3));
+        System.out.println("Area of traingle with height 2.4 and breadth 5.6 is: " + area(9.2, 4.3));
     }
 
     public static double area(double r) {
